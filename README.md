@@ -1,7 +1,7 @@
 mws-sdk-promises
 ======
 
-Originally forked from [ticadia/mws-sdk](https://github.com/ticadia/mws-sdk).
+Originally forked from [vedmalex/mws-sdk](https://github.com/vedmalex/mws-sdk).
 
 What is done:
 -------------
