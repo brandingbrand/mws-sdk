@@ -8,8 +8,8 @@
     "fba",
     "sellers"
   ],
-  "homepage": "http://_",
-  "version": "1.1.0",
+  "homepage": "https://github.com/brandingbrand/mws-sdk/wiki",
+  "version": "1.1.1",
   "author": {
     "name": "Eibbor Srenduas",
     "email": "robbies@eibbors.net",
@@ -31,6 +31,10 @@
     {
       "name": "PHaroZ",
       "email": "github@pharoz.net"
+    },
+    {
+      "name": "Mikhail Siauko",
+      "email": "buticm@gmail.com"
     }
   ],
   "main": "./lib/mws",
@@ -39,7 +43,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vedmalex/mws-sdk.git"
+    "url": "https://github.com/brandingbrand/mws-sdk.git"
   },
   "dependencies": {
     "bluebird": "3.4.1",
@@ -55,6 +59,6 @@
     "test": "mocha -t 5000"
   },
   "bugs": {
-    "url": "https://github.com/ticadia/mws-sdk/issues"
+    "url": "https://github.com/brandingbrand/mws-sdk/issues"
   }
 }
