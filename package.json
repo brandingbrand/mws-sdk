@@ -1,5 +1,5 @@
 {
-  "name": "mws-sdk-promises",
+  "name": "@brandingbrand/mws-sdk-promises",
   "description": "Amazon Marketplace Web Services client with support for all api calls, using ES6 Promises.",
   "keywords": [
     "mws",
